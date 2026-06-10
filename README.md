@@ -1,8 +1,7 @@
 # 📊 Automatic Grading System (Bash)
 
 ## 📌 Overview
-This project is a Bash-based automatic grading system developed for OMIS 107.  
-It evaluates student submissions by executing expected solutions, comparing outputs, and assigning grades based on correctness.
+This project is a Bash-based automatic grading system that evaluates student submissions by executing solutions, comparing outputs, and updating a gradebook.
 
 The script is designed to simulate a real-world grading pipeline using basic Linux command-line tools.
 
